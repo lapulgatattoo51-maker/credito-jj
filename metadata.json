@@ -1,0 +1,8 @@
+{
+  "name": "Prestamos20 - Sistema de Gestión de Créditos",
+  "description": "Plataforma integral para la gestión de préstamos con interés fijo del 20%, control de rutas de cobranza, reportes financieros y seguimiento de clientes.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
